@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/fitstart-pop-up-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/simple-beginner-gym-routine/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/easy-meal-prep-ideas/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/most-nutritious-vegetables-you-should-eat-daily/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/best-supplements-for-beginners/
         </loc>
     </url>
     <url>
